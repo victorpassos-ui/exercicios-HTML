@@ -6,3 +6,11 @@
         border: 1px solid blue;
     }
 }
+.box-grid{
+    display: grid;
+    border: 1px solid orange;
+    grid-template-columns: 30px 30px 30px;
+    div{
+        border: 1px solid lawngreen;
+    }
+}
